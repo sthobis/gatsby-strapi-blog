@@ -1,0 +1,23 @@
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: monospace;
+  background: #111;
+  color: #fff;
+}
+* {
+  box-sizing: border-box;
+}
+a,
+a:visited {
+  background: #fff;
+  color: #111;
+  text-decoration: none;
+  padding: 0 0.3em;
+}
